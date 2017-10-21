@@ -25,6 +25,7 @@ const Friday = {
   '2': 'Комп\'ютерна дискретна математика',
   '3': 'Фізичне виховання',
 };
+const Week = { Monday, Tuesday, Wednesday, Thursday, Friday };
 
 const readline = require('readline');
 
